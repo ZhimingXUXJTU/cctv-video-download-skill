@@ -1,0 +1,5 @@
+# 运行时自动下载的 cctv-dl 二进制不入库
+assets/
+*.ts
+*.mp4
+*.log
